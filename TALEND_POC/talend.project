@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_peSgkT4oEeuU-bYK3YcTTA" label="Talend_POC" language="java" technicalLabel="TALEND_POC" author="_peSgkj4oEeuU-bYK3YcTTA" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cmathur/TCP_Cloud_CM.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_pgpRAD4oEeuU-bYK3YcTTA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_peSgkj4oEeuU-bYK3YcTTA" login="dedharm@eval12681.talend.com" firstName="dedharm" lastName="dedharm" type="DQ"/>
+</xmi:XMI>
